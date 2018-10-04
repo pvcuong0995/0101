@@ -14,6 +14,8 @@ namespace _0101
         public Form1()
         {
             InitializeComponent();
+            Label lb = new Label();
+
         }
     }
 }
